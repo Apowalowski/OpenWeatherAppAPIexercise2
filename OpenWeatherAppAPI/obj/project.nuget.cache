@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Awqk6zvuneccs3mQQuhJyv3trBW/gNMjL7FgO+8l9YkWC49/goyQHAU4RE3aIIJhq2L4xvyi+S9wFyeQptcLcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apowa\\repos\\OpenWeatherAppAPI\\OpenWeatherAppAPI\\OpenWeatherAppAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apowa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
